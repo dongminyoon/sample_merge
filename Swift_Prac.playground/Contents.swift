@@ -53,3 +53,5 @@ var some: [String] = ["Jo", "Hi", "Ho"]
 for (index, number) in some.enumerated() {
     print(index, number)
 }
+
+print("a")
